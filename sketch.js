@@ -47,10 +47,10 @@ function setup(){
 }
 
 function draw(){
-    if(backgroundImg)
-        background(backgroundImg)
-    else
-        background("blue")
+   // if(backgroundImg)
+   //background(backgroundImg)
+   // else
+   background("blue")
     
         noStroke();
         textSize(35)
