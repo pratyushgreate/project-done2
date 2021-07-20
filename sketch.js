@@ -50,7 +50,7 @@ function draw(){
     if(backgroundImg)
         background(backgroundImg)
     else
-        background("skyblue")
+        background("blue")
     
         noStroke();
         textSize(35)
