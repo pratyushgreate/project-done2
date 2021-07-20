@@ -48,7 +48,9 @@ function setup(){
 
 function draw(){
     if(backgroundImg)
-        background(backgroundImg);
+        background(backgroundImg)
+    else
+        background("skyblue")
     
         noStroke();
         textSize(35)
